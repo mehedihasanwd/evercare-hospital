@@ -24,7 +24,7 @@ const SingleService = () => {
   console.log(detail);
 
   return (
-    <div className="py-5">
+    <div className="py-5 min-vh-100">
       <img src={detail?.img} alt="" />
       <h2 className="py-2">
         <span className="text-primary">Service ID: </span> {detail?.id}

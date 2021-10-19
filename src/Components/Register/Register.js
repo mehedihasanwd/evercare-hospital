@@ -21,7 +21,7 @@ const Register = () => {
   };
 
   return (
-    <div className="my-5">
+    <div className="my-5 min-vh-100">
       <h2 className="py-2 d-block">
         Please <span className="text-primary">Register</span>
       </h2>

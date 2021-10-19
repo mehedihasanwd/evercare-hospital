@@ -21,7 +21,7 @@ const Login = () => {
   };
 
   return (
-    <div className="container my-5">
+    <div className="container my-5 min-vh-100">
       <h2 className="py-2 d-block">
         Please <span className="text-primary">Login</span>
       </h2>
