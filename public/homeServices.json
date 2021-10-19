@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Pulmonology Treatment",
+    "img": "https://sgvpholistichospital.org/wp-content/uploads/2019/06/allopathy-pulmonology.jpg",
+    "id": 1,
+    "price": 100,
+    "desc": "The Department of Pulmonology at Evercare Hospital offers management of acute and chronic lung diseases by a team of highly trained and experienced physicians. They provide treatment in the outpatient setting, as well as inpatients and those in intensive care units (ICU). The consultants perform bronchoscopies for both diagnostic and therapeutic purposes which are mostly done in emergency room or in the ICU. The consultants are experienced in the management of chronic diseases like Chronic Obstructive Pulmonary Disease (COPD), allergies, asthma and tuberculosis. They manage patients with malignancies of the lung along with the surgeons and medical oncologists. The pulmonary function testing (PFT) lab and imaging methodology like 64 slice CT help the consultants arrive at accurate diagnosis and improve treatment of complex lung diseases."
+  },
+  {
+    "name": "Neurological Treatment",
+    "img": "https://img.freepik.com/vrije-vector/menselijke-brein-wireframe-laag-poly-stijl-concept-voor-medisch-hersenkanker-neuraal-netwerk-abstracte-moderne-3d-vectorillustratie-op-donkerblauwe-achtergrond_468958-130.jpg?size=338&ext=jpg",
+    "id": 2,
+    "price": 150,
+    "desc": "Department of Neurology of Evercare Hospital provides comprehensive consultative services, diagnostic testing and treatment for a broad spectrum of neurological conditions, including diseases of the brain, spinal cord, peripheral nerves and muscles. Evercare Hospital America the only hospital in the country to be providing advanced and comprehensive Neurology  & Neurosurgery facilities under one roof. The Neurology Department has experienced American Board Certified Neurologist and also the only qualified epilepsy specialist of the country. The department uses the latest technology and facilities, and is staffed by an experienced team of neurologists, nurses and technologists, who are committed to patient care. Neuro Rehabilitation services are provided for our patients in association with Physical Medicine & Rehabilitation Centre."
+  },
+  {
+    "name": "Traumatological Treatment",
+    "img": "https://dolores.com.mk/wp-content/uploads/2017/01/traum_back.jpg",
+    "id": 3,
+    "price": 200,
+    "desc": "Department of Traumatology of Evercare Hospital provides comprehensive consultative services, diagnostic testing and treatment for a broad spectrum of Traumatological conditions, including diseases of the bones, spinal cord, peripheral nerves and muscles. Evercare Hospital America the only hospital in the country to be providing advanced and comprehensive Traumatology & Truamasurgery facilities under one roof. The Traumatology Department has experienced American Board Certified Truamalogist and also the only qualified epilepsy specialist of the country. The department uses the latest technology and facilities, and is staffed by an experienced team of Truamalogists, nurses and technologists, who are committed to patient care. Trauma Rehabilitation services are provided for our patients in association with Physical Medicine & Rehabilitation Centre."
+  },
+  {
+    "name": "Cardiological Treatment",
+    "img": "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2019/09/cardiovascular.jpg",
+    "id": 4,
+    "price": 250,
+    "desc": "Department of Cardiology of Evercare Hospital provides comprehensive consultative services, diagnostic testing and treatment for a broad spectrum of Cardiological conditions, including diseases of the bones, spinal cord, peripheral nerves and muscles. Evercare Hospital America the only hospital in the country to be providing advanced and comprehensive Cardiology & Cardio surgery facilities under one roof. The Cardiology Department has experienced American Board Certified Cardiologists and also the only qualified epilepsy specialist of the country. The department uses the latest technology and facilities, and is staffed by an experienced team of Cardiologists, nurses and technologists, who are committed to patient care. Trauma Rehabilitation services are provided for our patients in association with Physical Medicine & Rehabilitation Centre."
+  },
+  {
+    "name": "Dental Treatment",
+    "img": "https://previews.123rf.com/images/natalimis/natalimis1908/natalimis190800083/128701004-the-concept-of-dental-treatment-doctor-shows-healthy-teeth-and-tools-.jpg",
+    "id": 5,
+    "price": 300,
+    "desc": "Department of Dental & Maxillofacial Surgery of Evercare Hospital Dhaka offers full scope of the dental specialty, including general dentistry and specialized services in oral & maxillofacial surgery, orthodontics and restorative dentistry (endodontics and prosthodontics). Our aim is to deliver oral health care of the highest standard to our patients through experienced dental surgeons and modern technology. The department provides diagnosis, management and surgical treatment of defects and injuries related to the function and aesthetics of the teeth, gums and jaws. It also provides excellent surgical service for all sorts of maxillofacial surgery & disease."
+  },
+  {
+    "name": "Paediatric Treatment",
+    "img": "https://previews.123rf.com/images/oksun70/oksun701508/oksun70150800037/43214692-male-pediatrician-holding-baby-boy-patient-in-office.jpg",
+    "id": 6,
+    "price": 400,
+    "desc": "The Department of Paediatrics of Evercare Hospital Dhaka provides comprehensive healthcare services for children and adolescents below the age of 15. We offer a multidisciplinary approach to care, primarily provided by our expert paediatric specialists, as well as a multi-specialty team of clinicians and surgeons. Our specialists have advanced training and vast experience in virtually every sub-discipline of paediatric medicine. Our paediatric services provide family centred care that is consistent, supportive and nurturing which meets the physical, emotional and psychosocial needs of our patients. We provide state-of-the-art paediatric care in the form of open communication, emotional support and education to all of our patients as well to their families. Our goal is to maintain an environment conducive to healing that is reflective of trust, honesty and respect to our patients, their families and our st"
+  }
+]

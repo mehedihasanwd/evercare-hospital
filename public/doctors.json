@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Dr. John Allen",
+    "img": "http://mekarabadipratama.co.id/wp-content/uploads/2015/02/dr-john-allen.jpg",
+    "id": 1,
+    "fee": 100,
+    "job": "Pulmonologist",
+    "desc": "John was born and raised in Los Angeles, California. He graduated from the University of London, where he completed is bachelor’s degree in pulmonary Treatment. His admission to the State Bar of London took place on the 1st of February, 1981."
+  },
+  {
+    "name": "Dr. Peter Parker",
+    "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/04/pediactirc-Doctors-e1460536658595-400x400.jpg",
+    "id": 2,
+    "fee": 150,
+    "job": "Neurologist",
+    "desc": "Parker was born and raised in Canada. He graduated from the University of British, where he completed is bachelor’s degree in Neurology. His admission to the State Bar of Canada took place on the 10st of April, 1953."
+  },
+  {
+    "name": "Dr. Kirk Romanov",
+    "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2015/01/Depositphotos_12694888_original-400x400.jpg",
+    "id": 3,
+    "fee": 200,
+    "job": "Traumatologist",
+    "desc": "Krik was born and raised in Cape Town, South Africa. He graduated from the University of Cape Town, where he completed is bachelor’s degree in Traumatology. His admission to the State Bar of Cape Town took place on the 24th of June, 1980."
+  },
+  {
+    "name": "Dr. William Campbell",
+    "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/04/eye-carew-400x400.jpg",
+    "id": 4,
+    "fee": 300,
+    "job": "Cardiologist",
+    "desc": "William was born and raised in New York. He graduated from the University of New York, where he completed is bachelor’s degree in cardiology. His admission to the State Bar of New York took place on the 25st of February, 1973."
+  },
+  {
+    "name": "Dr. Smith Ethan",
+    "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2015/01/Depositphotos_79545310_original-400x400.jpg",
+    "id": 5,
+    "fee": 400,
+    "job": "Dentist",
+    "desc": "Smith was born and raised in Los Angeles, California. He graduated from the University of California, where he completed is bachelor’s degree in Dental Health. His admission to the State Bar of California took place on the 25th of November, 1985."
+  },
+  {
+    "name": "Dr. Edward Bach",
+    "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/04/Dosctor-Miha.jpg",
+    "id": 6,
+    "fee": 500,
+    "job": "Paediatrician",
+    "desc": "Edward was born and raised in Australia, North Way Australia He graduated from the University of Australia, where he completed is bachelor’s degree in Paediatric Treatment. His admission to the State Bar of Australia took place on the 10st of April, 1953.."
+  }
+]
