@@ -6,6 +6,7 @@ import useFirebase from "../../Hooks/useFirebase";
 
 const Header = () => {
   const { user, logOut } = useFirebase();
+  console.log(user);
   return (
     <>
       <>
@@ -47,9 +48,10 @@ const Header = () => {
                 Register
               </Nav.Link>
 
-              <Navbar.Text>
-                Signed in as: <a to="#login">{user?.displayName}</a>
-              </Navbar.Text>
+              <Nav.Link className="text-warning" eventKey={2}>
+                <span className="me-2 text-white">Signed in as:</span>
+                {user?.displayName ? user?.displayName : user?.email}
+              </Nav.Link>
             </Navbar.Collapse>
           </Container>
         </Navbar>
