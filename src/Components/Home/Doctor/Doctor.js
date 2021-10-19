@@ -5,7 +5,7 @@ const Doctor = (props) => {
   const { name, img, job, fee } = props.doctor;
   return (
     <CardGroup>
-      <Card>
+      <Card className="shadow-lg">
         <Card.Img variant="top" height="100%" src={img} />
         <Card.Body>
           <Card.Title>
