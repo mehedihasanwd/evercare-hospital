@@ -18,7 +18,7 @@ const Header = () => {
         >
           <Container>
             <Navbar.Brand href="/home">
-              EVERCARE<span className="text-danger">HOSPITAL</span>
+              EVERCARE<span className="text-primary">HOSPITAL</span>
             </Navbar.Brand>
             <Navbar.Toggle />
             <Navbar.Collapse className="mx-1 justify-content-end">
