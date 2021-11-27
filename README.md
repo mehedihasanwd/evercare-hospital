@@ -1,6 +1,11 @@
 # Getting Started with Evercare Hospital
 About Evercare Hospital Website: This a Healthcare website where users can register account and then login. This website contains 6 services in different areas of medical treatment along with doctors information. This website is also responsive for mobile and tablet.
-Evercare Hospital Features & Functionality: ⚫ This is a Fast Loading React JS website ⚫ Used React Routers to put smooth feel while exploring ⚫ Have integreted Firebase Authentication for Login and Register ⚫ User can login with email & password along with Google Acoount Login ⚫ This site is hosted in firebase. 
+Evercare Hospital Features & Functionality: 
+⚫ This is a Fast Loading React JS website 
+⚫ Used React Routers to put smooth feel while exploring 
+⚫ Have integreted Firebase Authentication for Login and Register 
+⚫ User can login with email & password along with Google Acoount Login 
+⚫ This site is hosted in firebase. 
 Live Site Link: https://assignment-10-mh.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
